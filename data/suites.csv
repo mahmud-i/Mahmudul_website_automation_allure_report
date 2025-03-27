@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test Case 3: Verify Add to Cart functionality","18882","test_add_to_cart[cart]","tests","Thu Mar 27 06:47:33 BDT 2025","passed","Thu Mar 27 06:47:52 BDT 2025","TestEcommerceWebsite","test_ecommerce_website","",""
+"Test Case 5: Verify Logout functionality","6536","test_logout[login]","tests","Thu Mar 27 06:48:01 BDT 2025","passed","Thu Mar 27 06:48:08 BDT 2025","TestEcommerceWebsite","test_ecommerce_website","",""
+"Test Case 2: Verify Filter functionality","9368","test_filter[cart]","tests","Thu Mar 27 06:47:23 BDT 2025","passed","Thu Mar 27 06:47:33 BDT 2025","TestEcommerceWebsite","test_ecommerce_website","",""
+"Test Case 1: Verify Login functionality","4789","test_login[login]","tests","Thu Mar 27 06:47:19 BDT 2025","passed","Thu Mar 27 06:47:23 BDT 2025","TestEcommerceWebsite","test_ecommerce_website","",""
+"Test Case 4: Verify Checkout functionality","9539","test_checkout[checkout]","tests","Thu Mar 27 06:47:52 BDT 2025","passed","Thu Mar 27 06:48:01 BDT 2025","TestEcommerceWebsite","test_ecommerce_website","",""
